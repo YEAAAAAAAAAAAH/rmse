@@ -1,4 +1,4 @@
-# RPGMaker Save Editor
+# rpgmaker-save-editor
 
 This is a tool for editing RPGMaker save files. It currently supports save files written by RPG Maker MZ (.rmmzsave), but support for other versions of RPGMaker is planned for the future.
 
